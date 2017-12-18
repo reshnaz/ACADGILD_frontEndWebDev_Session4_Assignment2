@@ -1,7 +1,7 @@
 # S4A2
 
 HTML content is present in "app.component.html".
-"bundle.js" is the transpiled output of the combined ts files -- "interface.ts" and "functionality.ts".
+"bundle.js" is the transpiled output of the combined ts files -- "interface.ts", "functionality.ts" and "bundle.ts".
 
 Problem Statement:
 
