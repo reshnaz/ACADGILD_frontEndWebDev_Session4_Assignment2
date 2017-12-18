@@ -1,5 +1,19 @@
 # S4A2
+---------------------------------------------------------------
+"bundle.js" is the transpiled output of the combined ts files -- "interface.ts" and "functionality.ts".
 
+Problem Statement:
+
+A. Create a namespace and add an interface and a function.
+
+B. Create another file and function in the same namespace
+
+C. Create another file and try to consume the interface and 2 functions with the help of
+namespace. Create Index.html and add bundle.js in script tag.
+
+D. The both the functions should display different message in console.log();
+
+--------------------------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
