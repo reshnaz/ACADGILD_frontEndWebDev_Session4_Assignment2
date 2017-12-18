@@ -21,7 +21,10 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "/home/reshma/Documents/AcadGild/frontEndWebDevelopment/Session-4_09Dec2017/Assignment-2/S4A2/src/bundle.js",
+        "/home/reshma/node_modules/es6-module-loader/dist/es6-module-loader-dev.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
